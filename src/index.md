@@ -41,7 +41,7 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 "year": "2025",
 "url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/"
 "files": [
-  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" },
+  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
 ]
 ```
 
@@ -65,7 +65,7 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 "url": "https://ceur-ws.org/Vol-3725/paper8.pdf",
 "files": [
   { "text": "Paper", "type": "pdf", "src": "https://link.springer.com/chapter/10.1007/978-3-031-33163-3_29" },
-  { "text": "Bibtex", "type": "bib", "src": "https://citation-needed.springer.com/v2/references/10.1007/978-3-031-33163-3_29?format=bibtex&flavour=citation" },
+  { "text": "Bibtex", "type": "bib", "src": "https://citation-needed.springer.com/v2/references/10.1007/978-3-031-33163-3_29?format=bibtex&flavour=citation" }
 ]
 ```
 
