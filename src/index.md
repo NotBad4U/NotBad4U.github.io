@@ -2,7 +2,7 @@
 title: Template homepage
 author: Alessio Coltellacci
 shortbio: PhD student in computer science
-description-meta: PhD candidate in Computer Science with a focus on Formal Methods.
+description-meta: PhD candidate in Computer Science with a focus on type theory and logic.
 og-url: https://no.github.io
 location: INRIA Nancy & LORIA, France
 email: alessio.coltellacci@inria.fr
@@ -20,27 +20,34 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student in the Veridis team at Inria Nancy, LORIA, under the supervision of [Stephan Merz](https://members.loria.fr/Stephan.Merz/) and [Gilles Dowek](https://lsv.ens-paris-saclay.fr/~dowek/). I am also an associate member of the Deducteam at the Laboratoire Méthodes Formelles.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
+My primary research interests focus on type theory, logic, and automated reasoning. 
+My current research involves proving the correctness of Satisfiability Modulo Theories (SMT) solvers used in automated theorem proving.
+I have independently studied category theory and topos theory as complementary areas of interest, with the goal of contributing to these fields in the future.
 
-<!-- > [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io). -->
+I am also a member of [Europroof working group 1](https://europroofnet.github.io/wg1/): __Tools on Proof Systems Interoperability__.
+
+**Research interests**
+- Logical frameworks
+- Dependent type theory
+- Category theory
+- Rewriting logic
+- Automated Reasoning
+
 
 # Publications
 
 ## Conference papers
 
 ``` json {.paper}
-"title": "Checking Linear Integer Arithmetic Proofs in Lambdapi",
-"authors": "Alessio Coltellacci, Gilles Dowek, Stephan Merz",
-"venue": "FroCoS 2025",
+"title": "[Accepted] Checking Linear Integer Arithmetic Proofs in Lambdapi",
+"authors": "Alessio Coltellacci, Stephan Merz",
+"venue": "FroCoS",
 "year": "2025",
 "url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/",
 "files": [
+  { "text": "Paper (upcoming)", "type": "pdf", "src": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/" },
   { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
 ]
 ```
@@ -79,7 +86,7 @@ year: 2025
 url: "https://link.springer.com/journal/236"
 ```
 
-## Talks
+<!-- ## Talks
 
 ``` json {.papers}
 {
@@ -87,7 +94,7 @@ url: "https://link.springer.com/journal/236"
   "authors": "Templato Urnehm",
   "venue": "My room"
 }
-```
+``` -->
 
 # Education
 
