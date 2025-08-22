@@ -4,7 +4,7 @@ author: Alessio Coltellacci
 shortbio: PhD student in computer science
 description-meta: PhD candidate in Computer Science with a focus on type theory and logic.
 og-url: https://no.github.io
-location: INRIA Nancy & LORIA, France
+location: INRIA Nancy, LORIA, France
 email: alessio.coltellacci@inria.fr
 picture: img/me.jpeg
 picture-round: true
@@ -26,15 +26,14 @@ My primary research interests focus on type theory, logic, and automated reasoni
 My current research involves proving the correctness of Satisfiability Modulo Theories (SMT) solvers used in automated theorem proving.
 I have independently studied category theory and topos theory as complementary areas of interest, with the goal of contributing to these fields in the future.
 
-I am also a member of [Europroof working group 1](https://europroofnet.github.io/wg1/): __Tools on Proof Systems Interoperability__.
+I am also a member of [Europroof working group 1](https://europroofnet.github.io/wg1/): _Tools on Proof Systems Interoperability_.
 
-**Research interests**
+**Research interests:**
 - Logical frameworks
 - Dependent type theory
 - Category theory
 - Rewriting logic
 - Automated Reasoning
-
 
 # Publications
 
