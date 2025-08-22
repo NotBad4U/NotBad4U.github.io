@@ -72,9 +72,9 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 ## Journal papers
 
 ``` yaml {.paper}
-title: [Submitted] Reconstruction of SMT proofs with Lambdapi
+title: "[Submitted] Reconstruction of SMT proofs with Lambdapi"
 authors: "Alessio Coltellacci, Bruno Andreotti, Haniel Barbosa, Gilles Dowek, Stephan Merz"
-venue: Acta Informatica
+venue: "Acta Informatica"
 year: 2025
 url: "https://link.springer.com/journal/236"
 ```
