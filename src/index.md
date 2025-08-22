@@ -167,3 +167,39 @@ papers:
 - Distributed Algorithms: modeling, verification and experimentation, TELECOM Nancy, 2025
 - Modelling, Verification and Experimentation for Software-based Systems, TELECOM Nancy, 2025
 - Theory of languages and grammar, TELECOM Nancy, 2024
+
+
+<script src="/live2dw/lib/L2Dwidget.min.js"></script>
+<script>
+    window.onload = function () {
+        L2Dwidget.init({
+            "model": {
+                "scale": 1,
+                "hHeadPos": 0.5,
+                "vHeadPos": 0.618,
+                "jsonPath": "/live2dw/assets/hijiki.model.json"
+            },
+            "display": {
+                "superSample": 2,
+                "width": 130,
+                "height": 130,
+                "position": "right",
+                "hOffset": -20,
+                "vOffset": 20
+            },
+            "mobile": {
+                "show": true,
+                "scale": 0.4
+            },
+            "react": {
+                "opacityDefault": 0.7,
+                "opacityOnHover": 0.2
+            },
+            "log": false,
+            "pluginJsPath": "lib/",
+            "pluginModelPath": "assets/",
+            "pluginRootPath": "live2dw/",
+            "tagMode": false
+        });
+    };
+</script>
