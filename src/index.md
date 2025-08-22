@@ -39,7 +39,7 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 "authors": "Alessio Coltellacci, Gilles Dowek, Stephan Merz",
 "venue": "FroCoS 2025",
 "year": "2025",
-"url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/"
+"url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/",
 "files": [
   { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
 ]
