@@ -35,104 +35,48 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
+"title": "Checking Linear Integer Arithmetic Proofs in Lambdapi",
+"authors": "Alessio Coltellacci, Gilles Dowek, Stephan Merz",
+"venue": "FroCoS 2025",
+"year": "2025",
+"url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/"
+"files": [
+  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" },
+]
 ```
 
 ``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
+"title": "Reconstruction of SMT proofs with Lambdapi",
+"authors": "Alessio Coltellacci, Stephan Merz",
+"venue": "Computer Aided Verification (CAV 2024), CEUR Workshop Proceedings",
+"year": "2024",
+"url": "https://ceur-ws.org/Vol-3725/paper8.pdf",
 "files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
+  { "text": "Paper", "type": "pdf", "src": "https://ceur-ws.org/Vol-3725/paper8.pdf" },
+  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/ACTA" }
+]
+```
+
+``` json {.paper}
+"title": "Reconstruction of TLAPS proofs solved by veriT in lambdapi",
+"authors": "Alessio Coltellacci, Stephan Merz",
+"venue": "ABZ 2023 (doctoral symposium)",
+"year": "2023",
+"url": "https://ceur-ws.org/Vol-3725/paper8.pdf",
+"files": [
+  { "text": "Paper", "type": "pdf", "src": "https://link.springer.com/chapter/10.1007/978-3-031-33163-3_29" },
+  { "text": "Bibtex", "type": "bib", "src": "https://citation-needed.springer.com/v2/references/10.1007/978-3-031-33163-3_29?format=bibtex&flavour=citation" },
 ]
 ```
 
 ## Journal papers
 
 ``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-awards: 
-  - Yet another "Yet another" award
-  - Never-ending Work Award
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    awards: Yet another "Yet another" award
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
+title: [Submitted] Reconstruction of SMT proofs with Lambdapi
+authors: "Alessio Coltellacci, Bruno Andreotti, Haniel Barbosa, Gilles Dowek, Stephan Merz"
+venue: Acta Informatica
+year: 2025
+url: "https://link.springer.com/journal/236"
 ```
 
 ## Talks
@@ -142,17 +86,6 @@ papers:
   "title": "Talk 1",
   "authors": "Templato Urnehm",
   "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
 }
 ```
 
@@ -167,39 +100,3 @@ papers:
 - Distributed Algorithms: modeling, verification and experimentation, TELECOM Nancy, 2025
 - Modelling, Verification and Experimentation for Software-based Systems, TELECOM Nancy, 2025
 - Theory of languages and grammar, TELECOM Nancy, 2024
-
-
-<script src="/live2dw/lib/L2Dwidget.min.js"></script>
-<script>
-    window.onload = function () {
-        L2Dwidget.init({
-            "model": {
-                "scale": 1,
-                "hHeadPos": 0.5,
-                "vHeadPos": 0.618,
-                "jsonPath": "/live2dw/assets/hijiki.model.json"
-            },
-            "display": {
-                "superSample": 2,
-                "width": 130,
-                "height": 130,
-                "position": "right",
-                "hOffset": -20,
-                "vOffset": 20
-            },
-            "mobile": {
-                "show": true,
-                "scale": 0.4
-            },
-            "react": {
-                "opacityDefault": 0.7,
-                "opacityOnHover": 0.2
-            },
-            "log": false,
-            "pluginJsPath": "lib/",
-            "pluginModelPath": "assets/",
-            "pluginRootPath": "live2dw/",
-            "tagMode": false
-        });
-    };
-</script>
