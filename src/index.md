@@ -1,26 +1,19 @@
 ---
 title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-picture: img/profile.png
-picture-round: false
+author: Alessio Coltellacci
+shortbio: PhD student in computer science
+description-meta: PhD candidate in Computer Science with a focus on Formal Methods.
+og-url: https://no.github.io
+location: INRIA Nancy & LORIA, France
+email: alessio.coltellacci@inria.fr
+picture: img/me.jpeg
+picture-round: true
 side-by-side: true
-pronouns: They/Them
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+orcid: 0009-0005-3580-2075
+dblp: https://dblp.org/pid/381/3384.html
+hal: https://inria.hal.science/search/index/q/*/authFullName_s/Alessio+Coltellacci
+github: NotBad4U
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
@@ -32,10 +25,10 @@ I am a (fake) PhD student, working on 👽 science on all kinds of related topic
 My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 <kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
 
-> [!NOTE]
+<!-- > [!NOTE]
 > This website is obviously a fake one, but it's meant to be very easy to use.
 > Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+> [Github repository](https://github.com/basicpage/basicpage.github.io). -->
 
 # Publications
 
@@ -165,16 +158,12 @@ papers:
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- PhD in Theoretical Computer Science, Inria Centre at Université de Lorraine, LORIA, Nancy, 2025
+- Master’s Degree in Software Development, Paul Sabatier University, Toulouse
+- Bachelor’s Degree in Computer Science, Paul Sabatier University, Toulouse
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
-
-# Community service
-
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- Distributed Algorithms: modeling, verification and experimentation, TELECOM Nancy, 2025
+- Modelling, Verification and Experimentation for Software-based Systems, TELECOM Nancy, 2025
+- Theory of languages and grammar, TELECOM Nancy, 2024
