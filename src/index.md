@@ -1,5 +1,5 @@
 ---
-title: Template homepage
+title: Alessio Coltellacci
 author: Alessio Coltellacci
 shortbio: PhD student in computer science
 description-meta: PhD candidate in Computer Science with a focus on type theory and logic.
