@@ -40,13 +40,14 @@ I am also a member of [Europroof working group 1](https://europroofnet.github.io
 ## Conference papers
 
 ``` json {.paper}
-"title": "[Accepted] Checking Linear Integer Arithmetic Proofs in Lambdapi",
+"title": "Checking Linear Integer Arithmetic Proofs in Lambdapi",
 "authors": "Alessio Coltellacci, Stephan Merz",
 "venue": "FroCoS",
 "year": "2025",
 "url": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/",
 "files": [
-  { "text": "Paper (upcoming)", "type": "pdf", "src": "https://icetcs.github.io/frocos-itp-tableaux25/frocos/" },
+  { "text": "Paper", "type": "pdf", "src": "https://link.springer.com/chapter/10.1007/978-3-032-04167-8_20" },
+  { "text": "Bibtex", "type": "bib", "src": "https://citation-needed.springer.com/v2/references/10.1007/978-3-032-04167-8_20?format=bibtex&flavour=citation" },
   { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
 ]
 ```
@@ -85,15 +86,20 @@ year: 2025
 url: "https://link.springer.com/journal/236"
 ```
 
-<!-- ## Talks
+## Invited Talks
 
 ``` json {.papers}
 {
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
+  "title": "Reconstructing SMT Proofs in Lambdapi",
+  "authors": "me",
+  "year": "September 2025",
+  "venue": "EuroProofNet Symposium WG2, Paris-Saclay University",
+  "url": "https://europroofnet.github.io/wg2-symposium/",
+  "files": [
+    { "text": "Slides", "type": "slides", "src": "https://europroofnet.github.io/_pages/WG2/Symposium/slides/AlessioC.pdf" },
+  ]
 }
-``` -->
+```
 
 # Education
 
