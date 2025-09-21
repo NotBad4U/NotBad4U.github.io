@@ -48,7 +48,7 @@ I am also a member of [Europroof working group 1](https://europroofnet.github.io
 "files": [
   { "text": "Paper", "type": "pdf", "src": "https://link.springer.com/chapter/10.1007/978-3-032-04167-8_20" },
   { "text": "Bibtex", "type": "bib", "src": "https://citation-needed.springer.com/v2/references/10.1007/978-3-032-04167-8_20?format=bibtex&flavour=citation" },
-  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
+  { "text": "Formalisation", "type": "git", "src": "https://github.com/NotBad4U/carcara/tree/lambdapi-translate" }
 ]
 ```
 
@@ -60,7 +60,7 @@ I am also a member of [Europroof working group 1](https://europroofnet.github.io
 "url": "https://ceur-ws.org/Vol-3725/paper8.pdf",
 "files": [
   { "text": "Paper", "type": "pdf", "src": "https://ceur-ws.org/Vol-3725/paper8.pdf" },
-  { "text": "Formalisation", "type": "code", "src": "https://github.com/NotBad4U/carcara/tree/ACTA" }
+  { "text": "Formalisation", "type": "git", "src": "https://github.com/NotBad4U/carcara/tree/ACTA" }
 ]
 ```
 
@@ -97,6 +97,8 @@ url: "https://link.springer.com/journal/236"
   "url": "https://europroofnet.github.io/wg2-symposium/",
   "files": [
     { "text": "Slides", "type": "slides", "src": "https://europroofnet.github.io/_pages/WG2/Symposium/slides/AlessioC.pdf" },
+    { "text": "Recording (upcoming)", "type": "video", "src": "" },
+    { "text": "URL event", "type": "link", "src": "https://europroofnet.github.io/wg2-symposium/" }
   ]
 }
 ```
