@@ -91,7 +91,6 @@ url: "https://link.springer.com/journal/236"
 ``` json {.papers}
 {
   "title": "Reconstructing SMT Proofs in Lambdapi",
-  "authors": "me",
   "year": "September 2025",
   "venue": "EuroProofNet Symposium WG2, Paris-Saclay University",
   "url": "https://europroofnet.github.io/wg2-symposium/",
