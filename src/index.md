@@ -86,7 +86,7 @@ year: 2025
 url: "https://link.springer.com/journal/236"
 ```
 
-## Invited Talks
+# Invited Talks
 
 ``` json {.papers}
 {
